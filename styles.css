@@ -1,0 +1,20 @@
+/***********************************************
+Name: Gilberto Picon
+Assignment: 02
+Purpose: CSS stylesheet for index.html
+***********************************************/
+
+h1 {
+   background: #DECB92;
+   width: auto;
+   color: #073DFF;
+   text-align: center;
+}
+
+footer {
+   background: #D1BFBE;
+   width: auto;
+   color: #D8412D;
+   text-align: right;
+}
+
